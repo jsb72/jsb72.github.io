@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1775683124|37532167116';
+const CACHE_VERSION = '1775686697|2039789059';
 /** @type {string} */
 const CACHE_PREFIX = 'Enjoy the Void-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
